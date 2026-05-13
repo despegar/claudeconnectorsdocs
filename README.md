@@ -1,1 +1,1 @@
-# claudeconnectorsdocs
+# Claude Connectors Docs
